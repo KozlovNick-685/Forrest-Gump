@@ -1,0 +1,13 @@
+import java.util.regex.*;
+
+public class Task4 {
+	public static void main(String[] args) {
+		String csv = "Вика,18,Альметьевск;Анна,24,Казань;Аскар,6,Бугульма";
+		Pattern pattern = Pattern.compile("[а-яА-Я0-9,]+");
+		Matcher matcher = pattern.matcher(csv);
+
+		while(matcher.find()) {
+			System.out.println("Запись: " + matcher.group());
+		}
+	}
+}

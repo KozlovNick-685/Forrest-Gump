@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task0 {
+public class calcul {
 	public static void main(String[] args){
 		Scanner myScanner = new Scanner(System.in);
 		int chislo1 = myScanner.nextInt();
