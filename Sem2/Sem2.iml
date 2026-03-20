@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Sem2_HW1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sem2_HW2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Калькулятор" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Коробка" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Универсальный калькулятор" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
